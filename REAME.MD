@@ -1,1 +1,1 @@
-Responsive single page restaurant website. 
+Responsive website for a fictional food delivery service company built with CSS grid.
